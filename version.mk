@@ -1,0 +1,6 @@
+ROLLNAME	= AI
+VERSION		= 1.0
+RELEASE		= 0
+COLOR		= forestgreen
+
+REDHAT.ROOT	= $(CURDIR)
